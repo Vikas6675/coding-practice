@@ -1,0 +1,1 @@
+cout<< "total Occ : " << total(arr,7,6);
